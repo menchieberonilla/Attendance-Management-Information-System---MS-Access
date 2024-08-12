@@ -14,7 +14,7 @@ The Attendance Management Information System (AMIS) is a comprehensive solution 
 - **Print Functionality**: Print all attendance records for offline use.
 - **User-friendly Interface**: Navigate through a simple and intuitive layout.
 
-
+![TIMEIN](Timein.png)
 
 ## For Employees
 To record Time In, Time Out, Break In, and Break Out:
